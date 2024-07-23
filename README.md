@@ -27,6 +27,16 @@ robust database to store all your tasks, ensuring that your data is safe and can
             🎨 HTML: For structuring the web pages.
             📡 CSS: For styling and layout.
 
+
+ <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="100" alt="TypeScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" alt="JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="100" alt="Bootstrap">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" width="100" alt="JSON">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="100" alt="HTML">  
+</div>
+<br><br>
+
             
 
 
