@@ -20,11 +20,14 @@ robust database to store all your tasks, ensuring that your data is safe and can
             * Data Persistence: All tasks are stored in the database for future reference. 💾
             
             
-
-
 🚀 Technologies Used :- 
 
-            🖌 SCSS: For sleek, maintainable, and reusable styles.
-            🌐 TypeScript & JavaScript: Ensuring robust and scalable application logic.
-            🎨 Bootstrap: Adding beautiful, responsive, and mobile-first design.
-            📡 AJAX & JSON: For seamless data exchange and real-time updates.
+            🖌 TypeScript: For type-safe JavaScript development.
+            🌐 JavaScript: For dynamic and interactive web elements.
+            🎨 HTML: For structuring the web pages.
+            📡 CSS: For styling and layout.
+
+            
+
+
+
