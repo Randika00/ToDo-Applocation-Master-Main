@@ -1,2 +1,4 @@
-# ToDo-Applocation-Master-Main
-To-do list as a productivity planner app, is dedicated to helping users track things to do, make daily planners and provide important task reminders for free.
+## ToDo-Applocation-Master-Main 📰
+
+A to-do list contains all the tasks that need to be done and can be ticked off accordingly. It is suitable for every person involved in a project, as it can be 
+customised and provides more clarity.
