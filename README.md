@@ -1,4 +1,6 @@
-📋 To-Do Application
+📋 To-Do Application 
+`SCSS` `AJAX` `TypeScript` `MySQL` `Bootstrap` `JSON` `JavaScript` `HTML` `CSS` `Node.js` `Express` `REST API` `Git` `GitHub` `Webpack` `NPM` `Responsive Design` `UI/UX` `Agile` `Scrum` `Workflow`
+
 
 A to-do list contains all the tasks that need to be done and can be ticked off accordingly. It is suitable for every person involved in a project, as it can be 
 customised and provides more clarity. By keeping such a list, you make sure that your tasks are written down all in one place so you don't forget anything important.
