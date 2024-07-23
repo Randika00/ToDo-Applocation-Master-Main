@@ -1,4 +1,5 @@
 📋 To-Do Application 
+
 `SCSS` `AJAX` `TypeScript` `MySQL` `Bootstrap` `JSON` `JavaScript` `HTML` `CSS` `Node.js` `Express` `REST API` `Git` `GitHub` `Webpack` `NPM` `Responsive Design` `UI/UX` `Agile` `Scrum` `Workflow`
 
 
