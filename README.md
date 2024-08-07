@@ -10,7 +10,7 @@ And by prioritizing tasks, you plan the order in which you'll do them, so that y
 My To-Do Application! This project is designed to help you stay organized and manage your tasks efficiently. Whether you're a student, professional, or anyone looking to 
 streamline their daily activities, this application is your perfect companion. Built using TypeScript, JavaScript, HTML, and CSS, this application offers a seamless user
 experience with a clean and intuitive interface. It's lightweight, fast, and highly responsive, making it easy to manage your tasks on any device. The application uses a 
-robust database to store all your tasks, ensuring that your data is safe and can be accessed whenever needed.    
+robust database to store all your tasks, ensuring that your data is safe and can be accessed whenever needed.
 
 🌟 Features
 
